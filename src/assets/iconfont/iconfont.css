@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1594450867604'); /* IE9 */
+  src: url('iconfont.eot?t=1594450867604#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQIAAsAAAAACGwAAAO5AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqELINVATYCJAMQCwoABCAFhG0HQhtBBxEVnC3Jfh6UcTrToISpaAIu/GGHnTYd5SjedzxEa69vdud+NoQKVFTyVVIkVVXHisCICodsUdgmxlTVs66+n8/LXiYFhUzrTEWv9Je8VaeFT93atHvrqEqWxHbb6R/Iww4X0iWsaAn2/8+x1Mvnp0f5r9IlO/AAj3qhA9peB67JNmHcMrzVpXDQLxMYs0oNdsrBzQ+aRM4KxN3kxGhoGZtswIVmHFTcmBAPdFppLAj3g7+PfzaDCRRdBXLhmev2cXDsp8xZLk70hEsegnw6D+TbqBgCSdys9F1Wo9wQbsw8Ou0BmqYw1T7Fs9yrHiuOomv0Xx6hqMQASOME2IXzlZ8ynE3wU5FN4WeuTUXoPL1hHF+B74Bd/tZU5dySAJtGxUUaxlZKCrxp8uvaWaAKvm317+7vm/IjBV68IV95dZFF31vaa6UyipwZGBS8lq407ybmSIGFerdSl3+o7im7fpaV9nF4rjQmdpaqECMgwMJHXkCJ6dmaG+aPjuoamt8WjKXAIiAEJa3CCbh/GKsqnT4WBlYX33ckx/I5HDPfRPDBbcVsjAXjoHBiGaycNOXeGAcZOPVwNuJBJ1tfER+S6pNF757of2qf86zHVA836u8wneo07Uey/bLIwX7d+d6Gs719o1Ovx6/H7OF9To318Sq5cEj9kVyD3KNDB3FP+NzDR71UHtQQPOvBzvVMhgb7dg4tblvcMdMyK7ro1GJtf1yfwi9Yr3/tQlEi+7JKXJ2+zNZg/Jd9bA294F49udrOca8N68ILM60CaYP/A//JFYTNQnzQZbGSYiDGdD9IWRnG7IorSyKKGKN9pR+FlISEmIQ8vyzkVZmUU3p1vFYC6k4hfvdJ9r2+URPJafafafxxF35o1mwGsV7SdZf9M7kp/7kjiYF+pqIkvZlABggU3ePS6dS5CsaMoUehOV+mMCyajYRmMYFixApUzRoysUPojNsFA81RGLPB8fZx83JUkczAulqAMGMViinbUM14jEzsZ+gsNv7QMYsmDDxj+cChbcSDHaMSDMD7QexToZlTBmHzFcNXpjitDAhP5CpOgm1Y+eIJC+QpLqneoSOiQTPlcITXYZYRlEwJ+mJEIqVrmrrqhwyf8trADkOKQAHg+QExHylob74YFH7/CoVeMgo3TDVFnxCrxAcHNoPVAXnSFZ2mbuUtlbeQQwgNaIzkwBE8KKM5Asrq4xLIJwzRgEzJZeJZuqvOWN6Qv+ENGEMenFGiRkandfZyvLQzVfxUP4h9Tca9Ya0GAAAA') format('woff2'),
+  url('iconfont.woff?t=1594450867604') format('woff'),
+  url('iconfont.ttf?t=1594450867604') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1594450867604#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-WIFI:before {
+  content: "\e622";
+}
+
+.icon-lanya:before {
+  content: "\e627";
+}
+
+.icon-dianliang:before {
+  content: "\e673";
+}
+
